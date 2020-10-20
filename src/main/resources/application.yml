@@ -3,5 +3,13 @@ jihan:
   age: ${random.int(0,100)}
   fullName: ${jihan.name} Lee
 spring:
-  profiles:
-    active: prod
+  output:
+    ansi:
+      enabled: always
+logging:
+  file:
+    path: logs
+  level:
+    com:
+      yeonho:
+        springinit: DEBUG

@@ -1,0 +1,24 @@
+2020-10-20 00:02:56.885  INFO 66912 --- [main] c.y.springinit.SpringinitApplication     : Starting SpringinitApplication on ryeono.local with PID 66912 (/Users/ryeono/ryeono/workspace/spring/springinit/target/classes started by ryeono in /Users/ryeono/ryeono/workspace/spring/springinit)
+2020-10-20 00:02:56.889 DEBUG 66912 --- [main] c.y.springinit.SpringinitApplication     : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-20 00:02:56.889  INFO 66912 --- [main] c.y.springinit.SpringinitApplication     : No active profile set, falling back to default profiles: default
+2020-10-20 00:02:57.200  INFO 66912 --- [main] c.y.springinit.SpringinitApplication     : Started SpringinitApplication in 0.566 seconds (JVM running for 1.106)
+2020-10-20 00:02:57.202 DEBUG 66912 --- [main] com.yeonho.springinit.SampleRunner       : =====================
+2020-10-20 00:02:57.202 DEBUG 66912 --- [main] com.yeonho.springinit.SampleRunner       : jihan
+2020-10-20 00:02:57.202 DEBUG 66912 --- [main] com.yeonho.springinit.SampleRunner       : jihan Lee
+2020-10-20 00:02:57.202 DEBUG 66912 --- [main] com.yeonho.springinit.SampleRunner       : =====================
+2020-10-20 23:46:18.335  INFO 67805 --- [main] c.y.s.SpringinitApplication              : Starting SpringinitApplication on ryeono.local with PID 67805 (/Users/ryeono/ryeono/workspace/spring/springinit/target/classes started by ryeono in /Users/ryeono/ryeono/workspace/spring/springinit)
+2020-10-20 23:46:18.342 DEBUG 67805 --- [main] c.y.s.SpringinitApplication              : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-20 23:46:18.343  INFO 67805 --- [main] c.y.s.SpringinitApplication              : No active profile set, falling back to default profiles: default
+2020-10-20 23:46:18.928  INFO 67805 --- [main] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 8080 (http)
+2020-10-20 23:46:18.939  INFO 67805 --- [main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2020-10-20 23:46:18.940  INFO 67805 --- [main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/9.0.38]
+2020-10-20 23:46:18.981  INFO 67805 --- [main] o.a.c.c.C.[.[.[/]                        : Initializing Spring embedded WebApplicationContext
+2020-10-20 23:46:18.982  INFO 67805 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 611 ms
+2020-10-20 23:46:19.095  INFO 67805 --- [main] o.s.s.c.ThreadPoolTaskExecutor           : Initializing ExecutorService 'applicationTaskExecutor'
+2020-10-20 23:46:19.209  INFO 67805 --- [main] o.s.b.w.e.t.TomcatWebServer              : Tomcat started on port(s): 8080 (http) with context path ''
+2020-10-20 23:46:19.216  INFO 67805 --- [main] c.y.s.SpringinitApplication              : Started SpringinitApplication in 1.203 seconds (JVM running for 1.755)
+2020-10-20 23:46:19.217 DEBUG 67805 --- [main] c.y.s.SampleRunner                       : =====================
+2020-10-20 23:46:19.217 DEBUG 67805 --- [main] c.y.s.SampleRunner                       : jihan
+2020-10-20 23:46:19.217 DEBUG 67805 --- [main] c.y.s.SampleRunner                       : jihan Lee
+2020-10-20 23:46:19.218 DEBUG 67805 --- [main] c.y.s.SampleRunner                       : =====================
+2020-10-20 23:46:37.225  INFO 67805 --- [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor           : Shutting down ExecutorService 'applicationTaskExecutor'
