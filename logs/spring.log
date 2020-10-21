@@ -22,3 +22,57 @@
 2020-10-20 23:46:19.217 DEBUG 67805 --- [main] c.y.s.SampleRunner                       : jihan Lee
 2020-10-20 23:46:19.218 DEBUG 67805 --- [main] c.y.s.SampleRunner                       : =====================
 2020-10-20 23:46:37.225  INFO 67805 --- [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor           : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-10-21 19:43:47.511  INFO 25340 --- [main] c.y.springinit.SampleControllerTest      : Starting SampleControllerTest on DESKTOP-RYEON with PID 25340 (started by RYEON in D:\workspaces\spring_boot_study)
+2020-10-21 19:43:47.511 DEBUG 25340 --- [main] c.y.springinit.SampleControllerTest      : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-21 19:43:47.512  INFO 25340 --- [main] c.y.springinit.SampleControllerTest      : No active profile set, falling back to default profiles: default
+2020-10-21 19:43:49.008  INFO 25340 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-10-21 19:43:49.389  INFO 25340 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2020-10-21 19:43:49.390  INFO 25340 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2020-10-21 19:43:49.405  INFO 25340 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 15 ms
+2020-10-21 19:43:49.428  INFO 25340 --- [main] c.y.springinit.SampleControllerTest      : Started SampleControllerTest in 2.352 seconds (JVM running for 4.574)
+2020-10-21 19:43:49.868  INFO 25340 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-10-21 19:47:16.871  INFO 30460 --- [main] c.y.springinit.SampleControllerTest      : Starting SampleControllerTest on DESKTOP-RYEON with PID 30460 (started by RYEON in D:\workspaces\spring_boot_study)
+2020-10-21 19:47:16.873 DEBUG 30460 --- [main] c.y.springinit.SampleControllerTest      : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-21 19:47:16.874  INFO 30460 --- [main] c.y.springinit.SampleControllerTest      : No active profile set, falling back to default profiles: default
+2020-10-21 19:47:19.264  INFO 30460 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 0 (http)
+2020-10-21 19:47:19.278  INFO 30460 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-10-21 19:47:19.279  INFO 30460 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.38]
+2020-10-21 19:47:19.416  INFO 30460 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-10-21 19:47:19.417  INFO 30460 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2504 ms
+2020-10-21 19:47:19.828  INFO 30460 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-10-21 19:47:20.173  INFO 30460 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring TestDispatcherServlet ''
+2020-10-21 19:47:20.174  INFO 30460 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2020-10-21 19:47:20.194  INFO 30460 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 20 ms
+2020-10-21 19:47:20.349  INFO 30460 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 52489 (http) with context path ''
+2020-10-21 19:47:20.368  INFO 30460 --- [main] c.y.springinit.SampleControllerTest      : Started SampleControllerTest in 4.01 seconds (JVM running for 5.712)
+2020-10-21 19:47:20.847  INFO 30460 --- [http-nio-auto-1-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-10-21 19:47:20.847  INFO 30460 --- [http-nio-auto-1-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-10-21 19:47:20.849  INFO 30460 --- [http-nio-auto-1-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2020-10-21 19:47:22.037  INFO 30460 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-10-21 19:54:46.935  INFO 23980 --- [main] c.y.springinit.SampleControllerTest      : Starting SampleControllerTest on DESKTOP-RYEON with PID 23980 (started by RYEON in D:\workspaces\spring_boot_study)
+2020-10-21 19:54:46.937 DEBUG 23980 --- [main] c.y.springinit.SampleControllerTest      : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-21 19:54:46.939  INFO 23980 --- [main] c.y.springinit.SampleControllerTest      : No active profile set, falling back to default profiles: default
+2020-10-21 19:54:50.226  INFO 23980 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 0 (http)
+2020-10-21 19:54:50.242  INFO 23980 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-10-21 19:54:50.242  INFO 23980 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.38]
+2020-10-21 19:54:50.468  INFO 23980 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-10-21 19:54:50.469  INFO 23980 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3494 ms
+2020-10-21 19:54:51.089  INFO 23980 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-10-21 19:54:51.526  INFO 23980 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring TestDispatcherServlet ''
+2020-10-21 19:54:51.527  INFO 23980 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2020-10-21 19:54:51.552  INFO 23980 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 25 ms
+2020-10-21 19:54:51.656  INFO 23980 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 52799 (http) with context path ''
+2020-10-21 19:54:51.669  INFO 23980 --- [main] c.y.springinit.SampleControllerTest      : Started SampleControllerTest in 5.477 seconds (JVM running for 7.395)
+2020-10-21 19:54:54.480  INFO 23980 --- [http-nio-auto-1-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-10-21 19:54:54.480  INFO 23980 --- [http-nio-auto-1-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-10-21 19:54:54.483  INFO 23980 --- [http-nio-auto-1-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2020-10-21 19:54:57.626  INFO 23980 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-10-21 20:01:20.348  INFO 24648 --- [main] c.y.springinit.SampleControllerJsonTest  : Starting SampleControllerJsonTest on DESKTOP-RYEON with PID 24648 (started by RYEON in D:\workspaces\spring_boot_study)
+2020-10-21 20:01:20.350 DEBUG 24648 --- [main] c.y.springinit.SampleControllerJsonTest  : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-21 20:01:20.355  INFO 24648 --- [main] c.y.springinit.SampleControllerJsonTest  : No active profile set, falling back to default profiles: default
+2020-10-21 20:01:22.332  INFO 24648 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-10-21 20:01:22.628  INFO 24648 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2020-10-21 20:01:22.628  INFO 24648 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2020-10-21 20:01:22.648  INFO 24648 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 20 ms
+2020-10-21 20:01:22.688  INFO 24648 --- [main] c.y.springinit.SampleControllerJsonTest  : Started SampleControllerJsonTest in 3.064 seconds (JVM running for 4.644)
+2020-10-21 20:01:22.925  INFO 24648 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
