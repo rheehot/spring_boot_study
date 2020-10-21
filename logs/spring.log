@@ -76,3 +76,49 @@
 2020-10-21 20:01:22.648  INFO 24648 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 20 ms
 2020-10-21 20:01:22.688  INFO 24648 --- [main] c.y.springinit.SampleControllerJsonTest  : Started SampleControllerJsonTest in 3.064 seconds (JVM running for 4.644)
 2020-10-21 20:01:22.925  INFO 24648 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-10-21 20:40:55.102  INFO 28884 --- [main] c.y.springinit.user.UserControllerTest   : Starting UserControllerTest on DESKTOP-RYEON with PID 28884 (started by RYEON in D:\workspaces\spring_boot_study)
+2020-10-21 20:40:55.104 DEBUG 28884 --- [main] c.y.springinit.user.UserControllerTest   : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-21 20:40:55.109  INFO 28884 --- [main] c.y.springinit.user.UserControllerTest   : No active profile set, falling back to default profiles: default
+2020-10-21 20:40:56.476  INFO 28884 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-10-21 20:40:56.765  INFO 28884 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2020-10-21 20:40:56.766  INFO 28884 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2020-10-21 20:40:56.786  INFO 28884 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 20 ms
+2020-10-21 20:40:56.831  INFO 28884 --- [main] c.y.springinit.user.UserControllerTest   : Started UserControllerTest in 2.321 seconds (JVM running for 3.827)
+2020-10-21 20:40:57.116  INFO 28884 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-10-21 20:41:49.160  INFO 24944 --- [main] c.y.springinit.user.UserControllerTest   : Starting UserControllerTest on DESKTOP-RYEON with PID 24944 (started by RYEON in D:\workspaces\spring_boot_study)
+2020-10-21 20:41:49.163 DEBUG 24944 --- [main] c.y.springinit.user.UserControllerTest   : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-21 20:41:49.168  INFO 24944 --- [main] c.y.springinit.user.UserControllerTest   : No active profile set, falling back to default profiles: default
+2020-10-21 20:41:50.725  INFO 24944 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-10-21 20:41:51.102  INFO 24944 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2020-10-21 20:41:51.102  INFO 24944 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2020-10-21 20:41:51.124  INFO 24944 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 22 ms
+2020-10-21 20:41:51.168  INFO 24944 --- [main] c.y.springinit.user.UserControllerTest   : Started UserControllerTest in 2.695 seconds (JVM running for 4.291)
+2020-10-21 20:41:51.496  INFO 24944 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-10-21 21:00:15.314  INFO 26520 --- [main] c.y.springinit.user.UserControllerTest   : Starting UserControllerTest on DESKTOP-RYEON with PID 26520 (started by RYEON in D:\workspaces\spring_boot_study)
+2020-10-21 21:00:15.374 DEBUG 26520 --- [main] c.y.springinit.user.UserControllerTest   : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-21 21:00:15.379  INFO 26520 --- [main] c.y.springinit.user.UserControllerTest   : No active profile set, falling back to default profiles: default
+2020-10-21 21:00:17.570  INFO 26520 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-10-21 21:00:18.065  INFO 26520 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2020-10-21 21:00:18.065  INFO 26520 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2020-10-21 21:00:18.083  INFO 26520 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 18 ms
+2020-10-21 21:00:18.127  INFO 26520 --- [main] c.y.springinit.user.UserControllerTest   : Started UserControllerTest in 3.588 seconds (JVM running for 5.792)
+2020-10-21 21:00:18.677  INFO 26520 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-10-21 21:02:03.367  INFO 33692 --- [main] c.y.springinit.user.UserControllerTest   : Starting UserControllerTest on DESKTOP-RYEON with PID 33692 (started by RYEON in D:\workspaces\spring_boot_study)
+2020-10-21 21:02:03.369 DEBUG 33692 --- [main] c.y.springinit.user.UserControllerTest   : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-21 21:02:03.374  INFO 33692 --- [main] c.y.springinit.user.UserControllerTest   : No active profile set, falling back to default profiles: default
+2020-10-21 21:02:05.085  INFO 33692 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-10-21 21:02:05.520  INFO 33692 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2020-10-21 21:02:05.520  INFO 33692 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2020-10-21 21:02:05.539  INFO 33692 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 19 ms
+2020-10-21 21:02:05.581  INFO 33692 --- [main] c.y.springinit.user.UserControllerTest   : Started UserControllerTest in 3.018 seconds (JVM running for 5.065)
+2020-10-21 21:02:06.076  WARN 33692 --- [main] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter found for return value of type: class com.yeonho.springinit.user.User]
+2020-10-21 21:02:06.140  INFO 33692 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-10-21 21:02:58.377  INFO 30284 --- [main] c.y.springinit.user.UserControllerTest   : Starting UserControllerTest on DESKTOP-RYEON with PID 30284 (started by RYEON in D:\workspaces\spring_boot_study)
+2020-10-21 21:02:58.379 DEBUG 30284 --- [main] c.y.springinit.user.UserControllerTest   : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-21 21:02:58.383  INFO 30284 --- [main] c.y.springinit.user.UserControllerTest   : No active profile set, falling back to default profiles: default
+2020-10-21 21:03:00.459  INFO 30284 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-10-21 21:03:00.872  INFO 30284 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2020-10-21 21:03:00.873  INFO 30284 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2020-10-21 21:03:00.900  INFO 30284 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 27 ms
+2020-10-21 21:03:00.970  INFO 30284 --- [main] c.y.springinit.user.UserControllerTest   : Started UserControllerTest in 3.422 seconds (JVM running for 5.499)
+2020-10-21 21:03:01.753  INFO 30284 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
