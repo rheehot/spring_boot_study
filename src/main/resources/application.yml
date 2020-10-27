@@ -11,5 +11,5 @@ spring:
 #    path: logs
 #  level:
 #    com:
-#      yeonho:
+#      yeonho:gt
 #        springinit: DEBUG
