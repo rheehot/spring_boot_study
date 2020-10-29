@@ -1,15 +1,5 @@
-jihan:
-  name: jihan
-  age: ${random.int(0,100)}
-  fullName: ${jihan.name} Lee
 spring:
-  output:
-    ansi:
-      enabled: always
-#logging:
-#  file:
-#    path: logs
-#  level:
-#    com:
-#      yeonho:gt
-#        springinit: DEBUG
+  datasource:
+    url: jdbc:postgresql://localhost:5432/springboot
+    username: jihan
+    password: pass
