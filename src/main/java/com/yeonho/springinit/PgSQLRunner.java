@@ -19,11 +19,11 @@ public class PgSQLRunner implements ApplicationRunner {
 
     @Override
     public void run(ApplicationArguments args) throws Exception {
-        String sql1 = "DROP TABLE ACCOUNT";
-        String sql2 = "CREATE TABLE ACCOUNT (ID INTEGER NOT NULL)";
-        String sql3 = "INSERT into account values (1)";
-        jdbcTemplate.execute(sql1);
-        jdbcTemplate.execute(sql2);
-        jdbcTemplate.execute(sql3);
+//        String sql1 = "DROP TABLE ACCOUNT";
+//        String sql2 = "CREATE TABLE ACCOUNT (ID INTEGER NOT NULL)";
+//        String sql3 = "INSERT into account values (1)";
+//        jdbcTemplate.execute(sql1);
+//        jdbcTemplate.execute(sql2);
+//        jdbcTemplate.execute(sql3);
     }
 }
