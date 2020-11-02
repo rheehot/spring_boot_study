@@ -14,6 +14,6 @@ public class AccountRunner implements ApplicationRunner {
 
     @Override
     public void run(ApplicationArguments args) throws Exception {
-        accountService.createAccount("jihan", "1234");
+        accountService.createAccount("jihan", "12345");
     }
 }
