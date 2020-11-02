@@ -1,2 +1,19 @@
-package com.yeonho.springinit;public class AccountRunner {
+package com.yeonho.springinit;
+
+import com.yeonho.springinit.account.AccountService;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.ApplicationArguments;
+import org.springframework.boot.ApplicationRunner;
+import org.springframework.stereotype.Component;
+
+@Component
+public class AccountRunner implements ApplicationRunner {
+
+    @Autowired
+    AccountService accountService;
+
+    @Override
+    public void run(ApplicationArguments args) throws Exception {
+        accountService.createAccount("jihan", "1234");
+    }
 }
